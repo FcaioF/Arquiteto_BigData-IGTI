@@ -401,3 +401,6 @@ FodyWeavers.xsd
 #flat files
 *.csv
 *.xlsx
+
+
+*.pdf
